@@ -10,3 +10,8 @@ spring:
   jpa:
     hibernate:
       ddl-auto: create
+
+
+upload-path: "C:\\Temp"
+
+cloud:
